@@ -1,0 +1,11 @@
+//This is only my first programming code
+
+#include <iostream.h>
+
+int main()
+{
+  cout << "Hello World1" << endl;
+  cout << "Enjay your days, by: Pranantyo" << endl;
+  
+  return 0;
+}
